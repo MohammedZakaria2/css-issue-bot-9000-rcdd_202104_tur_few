@@ -17,8 +17,13 @@ h2 {
   font-size: 12px;
 }
 
+<<<<<<< HEAD
 #tasks .completed {
   background: #ccc;
+=======
+#tasks.completed {
+  background-color: #ccc;
+>>>>>>> 439b7f80316d05aca273a5e33eef9fcb35b19707
   text-decoration: underline;
 }
 
